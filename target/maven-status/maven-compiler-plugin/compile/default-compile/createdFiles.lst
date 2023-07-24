@@ -1,0 +1,5 @@
+com\tamilschool\minibookkeeping\repo\ClassMasterRepo.class
+com\tamilschool\minibookkeeping\controller\MiniBookKeepingController.class
+com\tamilschool\minibookkeeping\model\ClassMaster.class
+com\tamilschool\minibookkeeping\dto\Book.class
+com\tamilschool\minibookkeeping\MiniBookKeepingApplication.class
